@@ -1,1 +1,5 @@
-# SDI-Data-Classification
+# Insight dari Ulasan Aplikasi dengan AI: Studi Kasus IBM Granite dan Dataset Google Play - Muhammad Daniel Ilyasa
+
+## Project Overview
+
+Project ini berfokus pada analisis sentimen berdasarkan ulasan pengguna di platform aplikasi Google play. Dengan bertujuan untuk menggali insight bermakna dari dataset ulasan pengguna aplikasi dengan memanfaatkan kecerdasan buatan, khususnya Large Language Model (LLM) IBM Granite.Dengan pendekatan berbasis prompt engineering dan integrasi melalui LangChain Agent Toolkit, model AI digunakan untuk melakukan klasifikasi sentimen, deteksi emosi, dan evaluasi kegunaan ulasan bagi developer. Setiap review dianalisis tidak hanya dari sisi positif atau negatif, tetapi juga dari sisi emosional dan kontribusinya terhadap perbaikan aplikasi. Seluruh proses dilakukan secara otomatis dan diperkuat dengan visualisasi data seperti  bar chart.Proyek ini menunjukkan bagaimana AI modern dapat berperan sebagai asisten analitik yang mampu menyaring ulasan yang benar-benar bermakna, mempermudah pengambilan keputusan produk, dan memperkuat strategi pengembangan aplikasi yang berbasis data.
